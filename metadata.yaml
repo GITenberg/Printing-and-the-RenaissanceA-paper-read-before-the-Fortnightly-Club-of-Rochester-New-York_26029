@@ -1,0 +1,30 @@
+_repo: Printing-and-the-RenaissanceA-paper-read-before-the-Fortnightly-Club-of-Rochester-New-York_26029
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slater, John Rothwell
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '31746'
+    url: http://www.gutenberg.org/2009/agents/31746
+description: ''
+gutenberg_issued: '2008-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26029'
+  lccn: '23000577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- History -- Origin and antecedents'
+- !lcsh 'Renaissance'
+- !lcc 'Z'
+title: 'Printing and the Renaissance
+
+  A paper read before the Fortnightly Club of Rochester, New York'
+url: http://www.gutenberg.org/ebooks/26029
