@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31746'
     url: http://www.gutenberg.org/2009/agents/31746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26029#Printing-and-the-RenaissanceA-paper-read-before-the-Fortnightly-Club-of-Rochester-New-York
 gutenberg_issued: '2008-07-11'
 gutenberg_type: Text
 identifiers:
